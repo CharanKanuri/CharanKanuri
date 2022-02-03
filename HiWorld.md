@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CharanKanuri alias Charan
 - 👀 I’m interested in Automotive tech
-- 🌱 I’m currently learning coding & ML
+- 🌱 I’m currently learning coding/C#/python/Aspice/ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
